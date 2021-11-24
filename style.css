@@ -1,0 +1,30 @@
+body{
+    background-image: linear-gradient(to top right, #33a0f1, #1b85cc, #126b9e, #075783, #01496b);;
+}
+
+.header{
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+}
+
+#search, #number_of_objects, #status{
+    font-size: 18px;
+}
+
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 150px;
+    box-shadow: 5px 5px 5px white;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: #f5f5f5;
+    bottom: 0;
+    width: 100%;
+    background-color: #6c757d;
+    line-height: 3;
+    text-align: center;
+}
