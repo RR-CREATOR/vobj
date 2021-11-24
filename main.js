@@ -12,7 +12,7 @@ function draw(){
     image(video, 0, 0, 380 , 295);
 }
 
-function start(){
+function search(){
     objectDetector = ml5.objectDetector('cocossd', modelLoaded);
     document.getElementById("status").innerHTML = "Status: Detecting Objects";
 }
