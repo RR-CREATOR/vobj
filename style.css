@@ -8,7 +8,7 @@ body{
     margin: 0;
 }
 
-#search, #number_of_objects, #status{
+#search, #objectFound, #status{
     font-size: 18px;
 }
 
